@@ -8,7 +8,7 @@
 #### Clone
 
 ```sh
-git clone https://github.com/AbhijithNT/TelegramFiletoCloud.git
+git clone https://github.com/mrnoobx/TelegramFiletoCloud.git
 
 cd TelegramFiletoCloud
 
@@ -36,7 +36,7 @@ python3 -m bot
 ```
 
 ### Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbhijithNT/TelegramFiletoCloud)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrnoobx/TelegramFiletoCloud)
 
 ## :clap:  Supporters
 
